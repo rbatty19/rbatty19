@@ -1,4 +1,22 @@
-### Hi there 👋
+### *Websites, Platforms and Tools* I highly recommend
+
+
+- ⚡ [ObservableHQ](https://observablehq.com/):
+ Make notebooks and showing data for JS, Python, etc
+
+- 🌱 [RunKit](https://runkit.com/): Make simple notebooks, researching on different NodeJS Versions, and embeds of JS
+
+- [Vercel](https://vercel.com/)
+- [Postman Web](https://web.postman.co)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Miro](https://miro.com/app/dashboard/): Whiteboards that can be used for research, ideation, building, wireframing and a range of other collaborative activities.
+
+
+# Profiles
+
+- [Stack Overflow](https://stackoverflow.com/users/13493399/rbatty19)
+- [ObservableHQ](https://observablehq.com/@robertbatty)
+
 
 <!--
 **rbatty19/rbatty19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
