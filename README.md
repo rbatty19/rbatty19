@@ -2,7 +2,7 @@
 
 
 - ⚡ [ObservableHQ](https://observablehq.com/):
- Make notebooks and showing data for JS, Python, etc
+ Make notebooks and showing data for Javascript
 
 - 🌱 [RunKit](https://runkit.com/): Make simple notebooks, researching on different NodeJS Versions, and embeds of JS
 
@@ -10,7 +10,8 @@
 - [Postman Web](https://web.postman.co)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Miro](https://miro.com/app/dashboard/): Whiteboards that can be used for research, ideation, building, wireframing and a range of other collaborative activities.
-
+- [Replit](https://replit.com/) 
+- [Google Colab](https://colab.research.google.com/)
 
 # Profiles
 
