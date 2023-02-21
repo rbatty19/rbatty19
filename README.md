@@ -18,6 +18,7 @@
 
 - [Stack Overflow](https://stackoverflow.com/users/13493399/rbatty19)
 - [ObservableHQ](https://observablehq.com/@robertbatty)
+- [Replit](https://replit.com/@rbatty19)
 
 
 <!--
